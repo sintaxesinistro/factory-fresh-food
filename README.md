@@ -1,3 +1,1 @@
-==Factory Fresh
-
-Planting made easy
+:x
